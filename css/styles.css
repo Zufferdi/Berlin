@@ -1,0 +1,16 @@
+.debut{
+    max-height: 200px;
+    width: auto;
+    
+}
+
+.picture {
+    max-height: 200px;
+    width: auto;
+    padding: 2px;
+}
+
+.pied {
+    max-height: auto;
+    width: 200px;
+    }
